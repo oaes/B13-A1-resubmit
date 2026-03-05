@@ -70,7 +70,7 @@ nav .menu a {
 }
 
 .btn:hover {
-  background-color: yellowgreen;
+  background-color: rgba(82, 120, 6, 0.879);
 }
 
 #banner {
@@ -169,7 +169,7 @@ nav .menu a {
 }
 
 .btn1:hover {
-  background-color: yellowgreen;
+  background-color: rgba(82, 120, 6, 0.879);
 }
 
 .btn2 {
