@@ -16,7 +16,6 @@ body {
 header {
   background-color: #ffffff;
   width: 100%;
-  /* max-width: 1600px; */
   justify-content: center;
 }
 
@@ -95,7 +94,7 @@ nav .menu a {
 .banner-overlay {
   position: absolute;
   inset: 0;
-  background: rgba(0, 25, 49, 0.8);
+  background: rgba(1, 26, 49, 0.193);
   display: flex;
   align-items: center;
   justify-content: center;
